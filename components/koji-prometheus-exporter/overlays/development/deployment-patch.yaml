@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/sp-guild-resilience-tenant/koji-prometheus-exporter/koji-prometheus-exporter@sha256:8f5b77b0b6a0173eba1910e11d3a23ed214353c2599bff895c8bf7fa061127d7
+      - image: quay.io/redhat-user-workloads/sp-guild-resilience-tenant/koji-prometheus-exporter/koji-prometheus-exporter@sha256:bdc73904e3f221c54fac67ab8564b69005fb57e3b3d19954e351a3ac451a0d07
         name: container-image
         resources: {}
 status: {}
