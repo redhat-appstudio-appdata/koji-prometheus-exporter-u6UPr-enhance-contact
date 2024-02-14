@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: koji-prometheus-exporter
     app.kubernetes.io/part-of: koji-prometheus-exporter
-  name: koji-prometheus-exporterywha
+  name: koji-prometheus-exporterq37b
 spec:
   port:
     targetPort: 8000
