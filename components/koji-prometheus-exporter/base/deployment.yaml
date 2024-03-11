@@ -23,7 +23,7 @@ spec:
         app.kubernetes.io/instance: koji-prometheus-exporter
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads/sp-guild-resilience-tenant/koji-prometheus-exporter/koji-prometheus-exporter@sha256:36f1f36969de8776b53e0d994c8401682df626df892872bb3e3b8299effefc20
+      - image: quay.io/redhat-user-workloads/sp-guild-resilience-tenant/koji-prometheus-exporter/koji-prometheus-exporter@sha256:abad2281e36840c9493ee552d81e99f72601238d58f95530795bd62a600b4f4b
         imagePullPolicy: Always
         name: container-image
         ports:
